@@ -1,7 +1,7 @@
 # MultilingualASR
 
 
-This repository provides the recipe for the paper [A Study of Multilingual End-to-End Speech Recognition for Kazakh, Russian, and English](link-will-be-here).
+This repository provides the recipe for the paper [A Study of Multilingual End-to-End Speech Recognition for Kazakh, Russian, and English](https://arxiv.org/abs/2108.01280).
 
 
 
